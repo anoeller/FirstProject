@@ -1,4 +1,6 @@
-h1 {
-    background-color: beige;
-    color:blueviolet
+.header {
+    background-color: purple;
+}
+h4 {
+    display: inline-block;
 }
